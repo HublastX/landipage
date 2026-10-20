@@ -4,7 +4,7 @@
 
 <footer class="w-full px-6 py-10 text-center flex flex-col items-center">
 	<h3 class="text-lg font-semibold dark:text-violet-500 text-violet-600 mb-4"> Hublast </h3>
-	<p class="text-sm mb-4"> All Will Be One </p>
+	<p class="text-sm mb-4"> Software house · All Will Be One </p>
 	<div class="flex gap-6 mb-4">
 		<a
 			href="https://github.com/HublastX"
